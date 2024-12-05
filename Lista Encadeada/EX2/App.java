@@ -43,7 +43,7 @@ public class App {
 
                 case 4:
                     
-                    System.out.println("Saindo...");
+                    System.out.println("Saindo");
                     scanner.close();
                     return;
 
