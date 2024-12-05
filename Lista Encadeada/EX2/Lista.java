@@ -105,7 +105,7 @@ public class Lista {
    
     public void printDecrescente() {
         No el = cauda;
-        while (el != cabeca) {
+        while (el != null) {
             System.out.println("Nome: " + el.elemento.nome);
             System.out.println("Código: " + el.elemento.codigo);
             System.out.println("Telefone: " + el.elemento.telefone);
