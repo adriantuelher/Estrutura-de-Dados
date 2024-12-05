@@ -43,7 +43,7 @@ public class App {
                     break;
 
                 case 0:
-                    System.out.println("Saindo...");
+                    System.out.println("Saindo");
                     break;
 
                 default:
